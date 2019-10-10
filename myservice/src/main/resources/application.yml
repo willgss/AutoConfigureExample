@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: myserver
+server:
+  port: 8080
+
+hello:
+  msg: "hello world"
